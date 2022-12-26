@@ -14,7 +14,10 @@ This is A roadmap or you can spell it mindmap for Developers , this is for front
 [**Senior Frontend Developer**](senior.png?raw=true) (image)
 
 
-This content is distributed under CCA v3 license: https://creativecommons.org/licenses/by/3.0/deed.en (added a note to the original repo).
-
 Frontend From: https://github.com/ivan-kleshnin/frontend-mindmaps
-And  BAckend from: https://github.com/kamranahmedse/developer-roadmap
+
+BAckend from: https://github.com/kamranahmedse/developer-roadmap
+
+
+
+This content is distributed under CCA v3 license: https://creativecommons.org/licenses/by/3.0/deed.en (added a note to the original repo).
